@@ -1,5 +1,5 @@
 {
   "author": "r1a",
-  "description": "Go Import support for Framer",
-  "hooker": true
+  "description": "Cross language importer - Golang Support",
+  "hooker": false
 }

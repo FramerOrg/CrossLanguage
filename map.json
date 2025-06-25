@@ -2,6 +2,7 @@
   "name": "CrossLanguage",
   "base": "https://raw.githubusercontent.com/FramerOrg/CrossLanguage/refs/heads/main",
   "modules": [
-    "GoBridge"
+    "GoBridge",
+    "CrossLangImporter"
   ]
 }

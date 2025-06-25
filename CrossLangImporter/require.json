@@ -1,7 +1,5 @@
 {
-  "dependencies": [
-    "CrossLangImporter"
-  ],
+  "dependencies": [],
   "option_dependencies": [],
   "pip_dependencies": []
 }
